@@ -1,0 +1,7 @@
+
+The Mystery of implementing a patch in Drupal:
+
+It happens in two parts: 
+1. The easy part  & the most difficult to find :: Git (BitBucket) is used for updating the codes on the repo for 
+                                                    any customization needed.
+

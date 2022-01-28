@@ -1,0 +1,6 @@
+
+Client does not want to provide any DOCUMENTATION.
+
+But, we have to provide all the DOCUMENTATION for any task.
+
+Maintenance will be problem if we do not keep a track of each and every change.
